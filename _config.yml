@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 locale                   : "en-US"
 title                    : "K. H. Kim's Notes"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : A study log
 name                     : "K. H. Kim"
 description              : "I'm K. H. Kim."
 url                      : "https://imkhkim.github.io"
@@ -106,9 +106,7 @@ analytics:
 author:
   name             : "K. H. Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello, Developers!"
-  location         : "Republic of Korea"
-  email            : "sizhf1231@gmail.com"
+  bio              : "Hello, Developers!  I'm K. H. Kim."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -128,6 +126,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+  email            : "sizhf1231@gmail.com"
+  location         : "Republic of Korea"
 
 # Site Footer
 footer:
