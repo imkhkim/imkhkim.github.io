@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "K. H. Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello, Developers!"
+  bio              : "Hello Developers"
   location         : "Republic of Korea"
   email            : "sizhf1231@gmail.com
   links:
@@ -133,7 +133,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fab fa-fw fa-envelope-square"
       url: "mailto:sizhf1231@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
