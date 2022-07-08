@@ -20,7 +20,7 @@ title                    : "K. H. Kim's Notes"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "K. H. Kim"
-description              : "K. H. Kim's notes."
+description              : "I'm K. H. Kim."
 url                      : "https://imkhkim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "K. H. Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello Developers"
+  bio              : "Hello, Developers!"
   location         : "Republic of Korea"
   email            : "sizhf1231@gmail.com"
   links:
