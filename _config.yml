@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "K. H. Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "imkhkim.github.io"
+  bio              : "Hello, Developers!"
   location         : "Republic of Korea"
-  email            :
+  email            : "sizhf1231@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
