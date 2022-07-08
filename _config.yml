@@ -106,11 +106,16 @@ analytics:
 author:
   name             : "K. H. Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello, Developers!  I'm K. H. Kim."
+  bio              : "Hello, Developers!<br/>I'm K. H. Kim."
+  location         : "Republic of Korea"
+  email            : # ""
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/imkhkim/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:sizhf1231@gmail.com"
+      url: "mailto:sizhf1231@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://imkhkim.github.io/"
@@ -120,18 +125,18 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/imkhkim/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-  email            : "sizhf1231@gmail.com"
-  location         : "Republic of Korea"
+  
+  
 
 # Site Footer
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/imkhkim/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sizhf1231@gmail.com"
@@ -141,9 +146,6 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/imkhkim/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
