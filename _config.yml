@@ -112,10 +112,10 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/imkhkim/"
+      url: "https://github.com/imkhkim/"{:target="_blank"}
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sizhf1231@gmail.com"
+      url: "mailto:sizhf1231@gmail.com"{:target="_blank"}
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://imkhkim.github.io/"
