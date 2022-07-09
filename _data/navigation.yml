@@ -12,3 +12,19 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+    - title: "Programming Language"
+      children:
+        - title: "C/C++"
+          url: https://imkhkim.github.io/Programming_Language/C/C++
+        - title: "Java"
+          url:
+        - title: "Python"
+          url:
+    - title: "Computer Science"
+      children:
+        - title: "Data Structure"
+          url: 
+        - title: "Algorithm"
+          url:
