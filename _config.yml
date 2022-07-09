@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "K. H. Kim's Notes"
+title                    : "KH Kim's Notes"
 title_separator          : "-"
 subtitle                 : A study log
-name                     : "K. H. Kim"
-description              : "I'm K. H. Kim."
+name                     : "KH Kim"
+description              : "Hi. I'm KH Kim."
 url                      : "https://imkhkim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "K. H. Kim"
+  name             : "KH Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm K. H. Kim."
+  bio              : "Hi. I'm KH Kim."
   location         : "Republic of Korea"
   email            : # ""
   links:
